@@ -4,13 +4,13 @@ An exploration of the Yelp dataset downloaded from the website.
 The data set was download in compressed form and is about 4.4GB in size compressed and about 9.8GB uncompressed. 
 
 The files that come with the dataset are as follows:
-JSON files:
-    1. Business.json - Contains business data including location data, attributes, and categories.
-    2. review.json - Contains full review text data including the user_id that wrote the review and the business_id the review is written for.
-    3. user.json - User data including the user's friend mapping and all the metadata associated with the user.
-    4. checkin.json - Checkins on a business.
-    5. tip.json - Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.
-    6. photo.json - Contains photo data including the caption and classification (one of "food", "drink", "menu", "inside" or "outside").
+##### JSON files:
+    - Business.json - Contains business data including location data, attributes, and categories.
+    - review.json - Contains full review text data including the user_id that wrote the review and the business_id the review is written for.
+    - user.json - User data including the user's friend mapping and all the metadata associated with the user.
+    - checkin.json - Checkins on a business.
+    - tip.json - Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.
+    - photo.json - Contains photo data including the caption and classification (one of "food", "drink", "menu", "inside" or "outside").
     
 PDF file:
 
